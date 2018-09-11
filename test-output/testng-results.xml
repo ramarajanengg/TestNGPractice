@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44629" started-at="2018-09-11T14:04:47Z" finished-at="2018-09-11T14:05:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44629" started-at="2018-09-11T14:04:47Z" finished-at="2018-09-11T14:05:32Z">
+      <class name="TestNGPractice.TestNGPractice.NewTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:TestNGPractice.TestNGPractice.NewTest@475530b9]" name="before" is-config="true" duration-ms="21326" started-at="2018-09-11T14:04:47Z" finished-at="2018-09-11T14:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:TestNGPractice.TestNGPractice.NewTest@475530b9]" name="LoginTest" duration-ms="4986" started-at="2018-09-11T14:05:09Z" finished-at="2018-09-11T14:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="SelectCasualDress()[pri:0, instance:TestNGPractice.TestNGPractice.NewTest@475530b9]" name="SelectCasualDress" duration-ms="17512" started-at="2018-09-11T14:05:14Z" finished-at="2018-09-11T14:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectCasualDress -->
+        <test-method status="PASS" signature="windUp()[pri:0, instance:TestNGPractice.TestNGPractice.NewTest@475530b9]" name="windUp" is-config="true" duration-ms="785" started-at="2018-09-11T14:05:31Z" finished-at="2018-09-11T14:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windUp -->
+      </class> <!-- TestNGPractice.TestNGPractice.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
